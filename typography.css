@@ -1,0 +1,26 @@
+.text-small{
+    font-size: var(--t-12);
+    font-family: var(--font-family-merienda);
+}
+
+.text-medium{
+    margin-top: 24px;
+    margin-bottom: 24px;
+    font-size: var(--t-16);
+    font-family: var(--font-family-merienda);
+}
+
+.text-large{
+    font-size: var(--t-18);
+    font-family: var(--font-family-merienda);
+    font-weight: 900;
+    font-size: 13px;
+    margin-bottom: 15px;
+}
+
+.titulo_principal{
+    font-size: 48px;
+    font-family: var(--font-family-merienda);
+    font-weight: 700;
+    margin-top: 100x;
+}

@@ -1,0 +1,29 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    height: 150px;
+    align-items: center;
+}
+
+.material-symbols-outlined{
+    cursor: pointer;
+}
+
+ul, li {
+    display: inline-block;
+    
+}
+
+a{
+    text-decoration: none;
+}
+.logotipo{
+    width:96px;
+    height: 96px;
+}
+
+@media (max-width: 700px){
+    .menu{
+        display: none;
+    }
+}

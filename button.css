@@ -1,0 +1,20 @@
+button{
+    width: 150px;
+    height: 50px;
+    background-color: var(--cor-preta);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 25px;
+    color: white;
+    font-family: var(--font-family-merienda);
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+button:hover{
+    background-color: white;
+    color: black;
+
+}
+
